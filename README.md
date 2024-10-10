@@ -1,6 +1,6 @@
 # Ebus-Management-Based-Current-Location-System
-Ebus Management System Based on Current Location
-Project Overview
+
+Project Overview:
 The Ebus Management System is a web-based application that enables real-time tracking of buses based on their current GPS locations. It is designed to provide bus operators, commuters, and administrators with accurate and up-to-date information about the location and status of buses in a fleet. The system consists of a frontend for displaying the bus information and a backend for managing the data and providing APIs.
 
 Key Features:
